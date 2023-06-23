@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am Victor Hugo, currently an undergraduate CS student at PUC Minas.
+
+![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,html,css,js,swift,arduino)
+
 <!--
 **PoderosoVitao/PoderosoVitao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
