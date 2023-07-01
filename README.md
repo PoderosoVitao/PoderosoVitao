@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Victor Hugo, currently an undergraduate CS student at PUC Minas. I work on university assignments and personal projects in my free time. I currently playing around with infosec CTF wargames.
+I am Victor Hugo, currently an undergraduate CS student at PUC Minas. I work on university assignments and personal projects in my free time.
 
 ![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,html,css,js,swift,arduino)
 
