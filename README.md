@@ -2,7 +2,9 @@
 
 I am Victor Hugo, currently an undergraduate CS student at PUC Minas. I work on university assignments and personal projects in my free time. I have been especially into CTF Wargames recently, though I am still just a beginner!
 
-![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,html,css,js,swift,arduino)
+![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,html,css,js,swift,arduino) ... And more!
+
+Down below is an (arguably) messy list of some of my projects and repositories.
 
 <!--
 **PoderosoVitao/PoderosoVitao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
