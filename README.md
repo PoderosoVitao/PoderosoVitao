@@ -21,3 +21,5 @@ Open to remote backend and AI engineering roles with international teams, and to
 
 - [LinkedIn](https://www.linkedin.com/in/victor-hugobraz-35b107277)
 - victorhbraz2004@gmail.com
+
+![Skills](https://skillicons.dev/icons?i=ruby,py,c,postgres,docker,aws)
